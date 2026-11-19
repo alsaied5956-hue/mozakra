@@ -1,0 +1,6 @@
+{
+  "name": "مُعدّ المذكرات الذكي",
+  "description": "استوديو ذكي للمعلمين لتحويل المواد الدراسية إلى مذكرات تعليمية إبداعية متكاملة بالهوية البصرية والرسوم التوضيحية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
